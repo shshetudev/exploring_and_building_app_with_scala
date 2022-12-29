@@ -1,0 +1,8 @@
+2022.12.29 12:34:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bjit/Personal/GIT/MY_GIT/exploring_and_building_app_with_scala/.metals/lsp.trace.json or /home/bjit/.cache/metals/lsp.trace.json[0m
+2022.12.29 12:34:03 INFO  logging to file /home/bjit/Personal/GIT/MY_GIT/exploring_and_building_app_with_scala/.metals/metals.log[0m
+2022.12.29 12:34:03 INFO  Started: Metals version 0.11.9 in workspace '/home/bjit/Personal/GIT/MY_GIT/exploring_and_building_app_with_scala' for client Visual Studio Code 1.74.2.[0m
+2022.12.29 12:34:08 INFO  time: initialize in 4.83s[0m
+2022.12.29 12:34:09 WARN  Build server is not auto-connectable.[0m
+2022.12.29 12:34:09 WARN  no build tool detected in workspace '/home/bjit/Personal/GIT/MY_GIT/exploring_and_building_app_with_scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Dec 29, 2022 12:34:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
